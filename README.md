@@ -49,8 +49,8 @@ This repository acts as a **living engineering knowledge base**.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barbaroskaymak&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaroskaymak&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codinsec&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codinsec&layout=compact)
 
 ---
 
